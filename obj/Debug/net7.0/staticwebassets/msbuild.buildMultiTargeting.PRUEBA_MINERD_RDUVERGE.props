@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PRUEBA_MINERD_RDUVERGE.props" />
+</Project>
